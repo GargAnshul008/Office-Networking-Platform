@@ -7,7 +7,9 @@ For the class project you will have to design and implement a backend of a web b
 will use a database system to manage all the application data. Your application should include elements of social networks
 (users have friends, relationships, posts to other users, etc) , multimedia content (photos, videos, etc) and location services
 (maps). 
-More specifically, your system should support the following three aspects. 
+
+More specifically, your system should support the following three aspects:
+
 ### First
 Users who have signed up for a service should be able to post content, such as a profile, post entries (also called notes or postings), and some multi-media
 items such as photos, audio or video, which will be made accessible via a page on the site that is created for that user.
@@ -16,6 +18,7 @@ items such as photos, audio or video, which will be made accessible via a page o
 The users should be able to define relationships with other users that they know or that they consider their friends.
 Users should then be able to restrict content so that only they, or their direct friends, or friends of these friends, or everybody,
 can access their content. 
+
 ### Third
 Other users or visitors should be able to browse and search for content, subject to the access
 restrictions selected by the users who posted the content. Users who visit another user’s page on the site should also be
