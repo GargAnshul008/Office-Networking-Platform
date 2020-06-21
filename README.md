@@ -5,7 +5,7 @@
 
 For the class project you will have to design and implement a backend of a web based application that
 will use a database system to manage all the application data. Your application should include elements of social networks
-(users have friends, relationships, posts to other users, etc) , multimedia content (photos, videos, etc) and location services
+(users have friends, relationships, posts to other users, etc), multimedia content (photos, videos, etc) and location services
 (maps). 
 
 More specifically, your system should support the following three aspects:
