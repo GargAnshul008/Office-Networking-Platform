@@ -8,15 +8,15 @@ will use a database system to manage all the application data. Your application 
 (users have friends, relationships, posts to other users, etc) , multimedia content (photos, videos, etc) and location services
 (maps). 
 More specifically, your system should support the following three aspects. 
-#### First
+### First
 Users who have signed up for a service should be able to post content, such as a profile, post entries (also called notes or postings), and some multi-media
 items such as photos, audio or video, which will be made accessible via a page on the site that is created for that user.
 
-#### Second
+### Second
 The users should be able to define relationships with other users that they know or that they consider their friends.
 Users should then be able to restrict content so that only they, or their direct friends, or friends of these friends, or everybody,
 can access their content. 
-#### Third
+### Third
 Other users or visitors should be able to browse and search for content, subject to the access
 restrictions selected by the users who posted the content. Users who visit another user’s page on the site should also be
 able to leave greetings, comments, and tips about other places for similar items, and to ask recommendations for services
@@ -37,7 +37,7 @@ particular, users should be able to register, create a profile, log in, create p
 friendships or relationships with other users, like pictures, like activities, pin locations on maps, send and answer
 friend requests, etc., as described.
 
-## MORE DETAILS:
+### MORE DETAILS:
 Following are more details about the problem domain you are dealing with. Obviously, we will have to make some simplifying assumptions to the
 scenario to keep the project reasonable.
 
